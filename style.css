@@ -1,0 +1,46 @@
+.profile-img {
+  width: 50%;
+  border-radius:30%;
+  
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=IBM+Plex+Sans:ital,wght@1,700&family=Noto+Sans:ital,wght@0,100;0,200;1,100;1,200&family=Noto+Serif+Malayalam:wght@100&display=swap');
+
+body {
+  padding: 20px;
+  background: #9CAFB7;
+    color: white;
+    text-align: center;
+font-family: 'Cormorant Garamond', serif;
+
+}
+
+h1 {
+  font-size: large;
+  
+}
+
+p {
+  font-size: small;
+  
+}
+.profile-img {
+  width: 50%;
+  border-radius: 50%;
+  
+}
+
+.btn {
+  display: block;
+  color: Black;
+  padding:20px;
+  background:white;
+  margin:16px;
+  box-shadow: 5px 10px lightblue;
+  
+  }
+a {
+  text-decoration: none;
+  color:white;
+}
